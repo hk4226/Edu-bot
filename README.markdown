@@ -62,4 +62,4 @@ EduBot is a Gradio-based web application designed to assist with academic tasks.
 This project is for educational purposes and uses open-source libraries. Ensure compliance with the terms of service for the Gemini API and other dependencies.
 
 ## Contact
-For issues or contributions, please open an issue or contact the project maintainer.
+For issues or contributions, please open an issue or contact me.
